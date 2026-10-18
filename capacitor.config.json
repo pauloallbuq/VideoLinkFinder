@@ -1,0 +1,6 @@
+{
+  "appId": "com.pauloallbuq.videolinkfinder",
+  "appName": "Video Link Finder",
+  "webDir": "client/dist",
+  "android": { "allowMixedContent": true }
+}

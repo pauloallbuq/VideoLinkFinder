@@ -1,0 +1,9 @@
+node_modules/
+client/dist/
+server/dist/
+*.sqlite
+.env
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
